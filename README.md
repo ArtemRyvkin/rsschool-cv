@@ -1,2 +1,5 @@
 # rsschool-cv
-https://ArtemRyvkin.github.io/rsschool-cv/cv
+rsschool-cv-html
+https://ArtemRyvkin.github.io/rsschool-cv/
+
+gh-pages
